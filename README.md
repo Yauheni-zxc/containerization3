@@ -1,7 +1,7 @@
 # Контейнеризация (семинары)
 
 
-![картинка для контейнеризации](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/containerization.jpg)
+
 
 ## Урок 3. Введение в Docker
 
@@ -17,19 +17,19 @@
 **Задание**
 
 
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-16-03.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-24-19.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-43-16.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-55-49.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-56-42.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-14%2022-57-22.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-14%2023-04-17.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-19-37.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-22-54.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-23-19.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-25-10.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-34-14.png)
-![версия lxc](https://github.com/Terekhov-AS/Containerization-Seminar_3/blob/main/source/2023-05-15%2000-34-30.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-14%2022-16-03.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-14%2022-24-19.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-14%2022-43-16.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-14%2022-55-49.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-14%2022-56-42.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-14%2022-57-22.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-14%2023-04-17.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-15%2000-19-37.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-15%2000-22-54.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-15%2000-23-19.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-15%2000-25-10.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-15%2000-34-14.png)
+![версия lxc](https://github.com/Yauheni-zxc/containerization3/blob/main/skrins/2023-05-15%2000-34-30.png)
 
 
 
@@ -37,4 +37,4 @@
 
 
 
-*Подготовил студента Geek Brains* [**`Терехов Александр`**](https://gb.ru/users/7696463),Containerization-Seminar_3
+*Подготовил студент Geek Brains* [**`Макей Евгений`**](https://gb.ru/users/19b5d41f-52eb-4dc6-8b02-5da1eb611b84),Containerization-Seminar_3
